@@ -1,5 +1,7 @@
 ﻿# RDP-on-remote-server
  
+ Configure RDP on remote Centos 7 server, which has no graphical interface 
+ 
  1.Install GNOME
  
   yum groups -y remove "GNOME Desktop"
